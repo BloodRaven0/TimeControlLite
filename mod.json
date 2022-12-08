@@ -4,6 +4,7 @@
 	"author": "[royal]Vulpen (aka BloodRaven) and sk7725[]",
 	"description": "Speeds up or slows down Mindustry.\nOnly has x0.5, x1, x2 and x4 speeds.\n\n[scarlet]Disclaimer: not intended for multiplayer use![]",
 	"version": "0.2l",
+	"repo": "BloodRaven0/TimeControlLite"
 	"hidden": true,
 	"minGameVersion": 136
 }
